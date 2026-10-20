@@ -1,0 +1,3 @@
+# Static policy pages (served from main).
+profile: docs
+target_branch: develop
